@@ -420,8 +420,9 @@
   }
 
   .u-section-3 .u-image-2 {
-    width: 280px;
-    height: 261px;
+    width: 270px;
+    height: 296px;
+    object-position: 0% 61.1%;
     margin-top: -325px;
   }
 }.u-section-4 {
